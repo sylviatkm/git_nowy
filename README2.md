@@ -1,1 +1,1 @@
-nowy plik readme
+nowy plik readme nowy commit
